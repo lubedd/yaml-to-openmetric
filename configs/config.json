@@ -1,0 +1,8 @@
+{
+  "app": {
+    "server_addr": "0.0.0.0:8080"
+  },
+  "metrics": {
+    "currencies": "../../currencies.yaml"
+  }
+}
