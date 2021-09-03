@@ -4,7 +4,7 @@
 ![Go Report](https://img.shields.io/badge/go%20report-A%2B-brightgreen)
 ![Repository Top Language](https://img.shields.io/github/languages/top/lubedd/yaml-to-openmetric)
 ![License](https://img.shields.io/conda/l/conda-forge/setuptools)
-![Github Open Issues](https://img.shields.io/github/issues-raw/lubedd/yaml-to-openmetric)
+![Github Open Issues](https://img.shields.io/github/issues/lubedd/yaml-to-openmetric)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lubedd/yaml-to-openmetric)
 ![GitHub contributors](https://img.shields.io/github/contributors/lubedd/yaml-to-openmetric)
 ![Simply the best ;)](https://img.shields.io/badge/simply-the%20best%20%3B%29-orange)
